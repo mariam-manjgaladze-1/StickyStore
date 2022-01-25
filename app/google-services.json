@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36962671482",
+    "project_id": "kotlin-finaluri",
+    "storage_bucket": "kotlin-finaluri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36962671482:android:0fdfd4e1839c254fdf54c3",
+        "android_client_info": {
+          "package_name": "com.example.finaluris_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36962671482-f3664ggbncvccfle7sau02np4rctem4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXnieL68YH1hUQUWagHwoJrppvWT8QAsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36962671482-f3664ggbncvccfle7sau02np4rctem4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
